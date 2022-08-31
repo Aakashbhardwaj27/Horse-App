@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Aakashbhardwaj27/Horse-App/static/css/main.877e4b4d.css",
-    "main.js": "/Aakashbhardwaj27/Horse-App/static/js/main.51ce8ac3.js",
+    "main.js": "/Aakashbhardwaj27/Horse-App/static/js/main.b18d2cc5.js",
     "static/js/787.e4ed6892.chunk.js": "/Aakashbhardwaj27/Horse-App/static/js/787.e4ed6892.chunk.js",
     "index.html": "/Aakashbhardwaj27/Horse-App/index.html",
     "main.877e4b4d.css.map": "/Aakashbhardwaj27/Horse-App/static/css/main.877e4b4d.css.map",
-    "main.51ce8ac3.js.map": "/Aakashbhardwaj27/Horse-App/static/js/main.51ce8ac3.js.map",
+    "main.b18d2cc5.js.map": "/Aakashbhardwaj27/Horse-App/static/js/main.b18d2cc5.js.map",
     "787.e4ed6892.chunk.js.map": "/Aakashbhardwaj27/Horse-App/static/js/787.e4ed6892.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.877e4b4d.css",
-    "static/js/main.51ce8ac3.js"
+    "static/js/main.b18d2cc5.js"
   ]
 }
