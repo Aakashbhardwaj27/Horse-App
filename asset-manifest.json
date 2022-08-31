@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//aakashbhardwaj27.github.io/Horse-App/static/css/main.877e4b4d.css",
-    "main.js": "//aakashbhardwaj27.github.io/Horse-App/static/js/main.292a19b4.js",
-    "static/js/787.e4ed6892.chunk.js": "//aakashbhardwaj27.github.io/Horse-App/static/js/787.e4ed6892.chunk.js",
-    "index.html": "//aakashbhardwaj27.github.io/Horse-App/index.html",
-    "main.877e4b4d.css.map": "//aakashbhardwaj27.github.io/Horse-App/static/css/main.877e4b4d.css.map",
-    "main.292a19b4.js.map": "//aakashbhardwaj27.github.io/Horse-App/static/js/main.292a19b4.js.map",
-    "787.e4ed6892.chunk.js.map": "//aakashbhardwaj27.github.io/Horse-App/static/js/787.e4ed6892.chunk.js.map"
+    "main.css": "/Horse-App/static/css/main.877e4b4d.css",
+    "main.js": "/Horse-App/static/js/main.2261749e.js",
+    "static/js/787.e4ed6892.chunk.js": "/Horse-App/static/js/787.e4ed6892.chunk.js",
+    "index.html": "/Horse-App/index.html",
+    "main.877e4b4d.css.map": "/Horse-App/static/css/main.877e4b4d.css.map",
+    "main.2261749e.js.map": "/Horse-App/static/js/main.2261749e.js.map",
+    "787.e4ed6892.chunk.js.map": "/Horse-App/static/js/787.e4ed6892.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.877e4b4d.css",
-    "static/js/main.292a19b4.js"
+    "static/js/main.2261749e.js"
   ]
 }
