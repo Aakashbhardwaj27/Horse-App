@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Horse-App/static/css/main.877e4b4d.css",
-    "main.js": "/Horse-App/static/js/main.2261749e.js",
-    "static/js/787.e4ed6892.chunk.js": "/Horse-App/static/js/787.e4ed6892.chunk.js",
-    "index.html": "/Horse-App/index.html",
-    "main.877e4b4d.css.map": "/Horse-App/static/css/main.877e4b4d.css.map",
-    "main.2261749e.js.map": "/Horse-App/static/js/main.2261749e.js.map",
-    "787.e4ed6892.chunk.js.map": "/Horse-App/static/js/787.e4ed6892.chunk.js.map"
+    "main.css": "/static/css/main.877e4b4d.css",
+    "main.js": "/static/js/main.ce707f0b.js",
+    "static/js/787.e4ed6892.chunk.js": "/static/js/787.e4ed6892.chunk.js",
+    "index.html": "/index.html",
+    "main.877e4b4d.css.map": "/static/css/main.877e4b4d.css.map",
+    "main.ce707f0b.js.map": "/static/js/main.ce707f0b.js.map",
+    "787.e4ed6892.chunk.js.map": "/static/js/787.e4ed6892.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.877e4b4d.css",
-    "static/js/main.2261749e.js"
+    "static/js/main.ce707f0b.js"
   ]
 }
