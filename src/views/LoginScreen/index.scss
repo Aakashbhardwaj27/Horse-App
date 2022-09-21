@@ -1,0 +1,12 @@
+@import 'styles/main.scss';
+.formscreen-container {
+  width: $size-full;
+  height: $size-full;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $color-whitesmoke;
+  background-image: url('https://extrabetamerica.imgix.net/Swedish_Racing_Disco_Volante_Kevin_Oscarsson_Wikimedia_Markus_Kauppinen_23f38acd9f.jpg?fit=crop&ar=16:9');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

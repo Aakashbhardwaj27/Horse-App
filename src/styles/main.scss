@@ -1,0 +1,61 @@
+// Colors
+$font-stack: Helvetica, sans-serif;
+$primary-color: rgb(102, 95, 202);
+$secondary-color: rgb(250, 228, 131);
+$color-grey: rgba(255, 255, 255, 0.74);
+$color-black: rgba(0, 0, 0, 0.6);
+$color-white: #ffffff;
+$color-whitesmoke: whitesmoke;
+//sizes
+$size-0: 0;
+$size-1: 1px;
+$size-4: 4px;
+$size-5: 5px;
+$size-16: 16px;
+$size-30: 30px;
+$size-400: 400px;
+$size-500: 500px;
+$size-rm-1: 1rem;
+
+//relative sizes
+$size-full: 100%;
+$size-half: 50%;
+$size-full-vw: 100vw;
+$size-full-vh: 100vh;
+
+//font weight
+$weight-100: 100;
+$weight-200: 200;
+$weight-300: 300;
+$weight-400: 400;
+$weight-500: 500;
+$weight-600: 600;
+$weight-700: 700;
+
+body {
+  margin: $size-0;
+}
+
+/*css reset
+  */
+
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul,
+li {
+  margin: $size-0;
+  padding: $size-0;
+  border: $size-0;
+  font-size: $size-full;
+  vertical-align: baseline;
+}

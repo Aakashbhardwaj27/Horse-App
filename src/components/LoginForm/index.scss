@@ -1,0 +1,25 @@
+@import 'styles/main.scss';
+
+.form-container {
+  padding: $size-rm-1;
+  width: $size-500;
+  height: 90vh;
+  background: $color-grey;
+  border-radius: $size-16;
+  box-shadow: $size-0 $size-4 $size-30 $color-black;
+  backdrop-filter: blur($size-5);
+  -webkit-backdrop-filter: blur($size-5);
+  border: $size-1 solid $color-grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit-btn {
+  width: $size-full;
+}
+
+.salutation-msg {
+  text-align: center;
+}

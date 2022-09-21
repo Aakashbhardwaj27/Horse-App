@@ -1,0 +1,25 @@
+@import 'styles/main.scss';
+
+.dashboard {
+  width: $size-full;
+  height: $size-full-vh;
+  max-height: $size-full-vh;
+  overflow-y: auto;
+  background-color: $secondary-color;
+  background-image: url('https://www.stellantis.com/content/dam/stellantis-corporate/news/dashboard/dashboard-background-sx.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+th,
+td {
+  color: $color-white !important;
+}
+
+td {
+  font-size: 1.3rem;
+}
+
+th {
+  font-size: 1.6rem;
+}

@@ -1,0 +1,22 @@
+@import 'styles/main.scss';
+.nav{
+    width: $size-full;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: $secondary-color;
+}
+.nav a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: $primary-color;
+    font-weight: $weight-500;
+}
+.nav a:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    color: $primary-color;
+}
+
