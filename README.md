@@ -1,6 +1,6 @@
 # Getting Started with Horse-Meter App
 
-<img src="https://user-images.githubusercontent.com/54072018/191208814-e7fba8bf-746a-4017-b59e-af7e7699061e.png" width="500" /> <img src="https://user-images.githubusercontent.com/54072018/189565244-407b47c5-6eb5-456b-ae8c-d7b66118b1c0.png" width="500" /> <img src="https://user-images.githubusercontent.com/54072018/189565065-e28ebf62-481d-4466-a723-881f7ab6516b.png" width="500" />
+<img src="https://user-images.githubusercontent.com/54072018/191208814-e7fba8bf-746a-4017-b59e-af7e7699061e.png" width="500" /> <img src="https://user-images.githubusercontent.com/54072018/189565244-407b47c5-6eb5-456b-ae8c-d7b66118b1c0.png" width="500" /> 
 
 This project supports docker implementation.
 ## Build the image and fire up the container:
